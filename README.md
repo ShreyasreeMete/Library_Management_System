@@ -1,4 +1,4 @@
-Library Management System
+#Library Management System
 
 A SQL-based Library Management System designed to demonstrate relational database design, data management, constraints, and SQL querying.
 
