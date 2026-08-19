@@ -145,8 +145,7 @@ This project demonstrates practical SQL operations including:
 
 Install a MySQL-compatible database environment such as:
 
-- MySQL Server
-- MySQL Workbench
+- MySQL Shell
 
 ### Steps
 
